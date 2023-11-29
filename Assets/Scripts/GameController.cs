@@ -45,7 +45,7 @@ public class GameController : MonoBehaviour
 
     }
 
-    public void Showfimjogo()
+    public void ShowFimJogo()
     {
         fimJogo.SetActive(true);
 
@@ -54,5 +54,10 @@ public class GameController : MonoBehaviour
     public void RestartGame(string lvlName)
     {
         SceneManager.LoadScene(lvlName);
+    }
+	
+	public void FimJogo()
+    {
+        Application.Quit();
     }
 }

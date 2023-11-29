@@ -9,7 +9,7 @@ public class FimJogo : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            GameController.instance.Showfimjogo();
+            GameController.instance.ShowFimJogo();
 
         }
 

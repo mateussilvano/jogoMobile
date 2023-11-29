@@ -9,6 +9,7 @@ TagManager:
   - enemy
   - spike
   - fire
+  - saw
   layers:
   - Default
   - TransparentFX
