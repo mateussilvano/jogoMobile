@@ -16383,12 +16383,20 @@ PrefabInstance:
       value: Enemy (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3610435093307019889, guid: d23cb8a08e2e93341b4464608fe5c179, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3610435093307019889, guid: d23cb8a08e2e93341b4464608fe5c179, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3610435093307019889, guid: d23cb8a08e2e93341b4464608fe5c179, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.53
+      value: 10.28
       objectReference: {fileID: 0}
     - target: {fileID: 3610435093307019889, guid: d23cb8a08e2e93341b4464608fe5c179, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.23
+      value: 2.02
       objectReference: {fileID: 0}
     - target: {fileID: 3610435093307019889, guid: d23cb8a08e2e93341b4464608fe5c179, type: 3}
       propertyPath: m_LocalPosition.z
